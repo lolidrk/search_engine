@@ -1,0 +1,4 @@
+Information Retrieval:https://nlp.stanford.edu/IR-book/html/htmledition/tf-idf-weighting-1.html#eqn:tfidf
+Inverted Index: https://notebook.community/liquidscorpio/python-data-analysis/2-Building-an-inverted-index-for-search-using-nltk
+Glib: https://developer.ibm.com/technologies/linux/tutorials/l-glib/
+Jsonc Tutorial: https://github.com/rbtylee/tutorial-jsonc/blob/master/tutorial/index.md
